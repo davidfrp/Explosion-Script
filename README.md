@@ -8,4 +8,4 @@ The obstacle mask is the layers that block the effects of the explosion. These l
 
 ![Image of script usage](https://i.imgur.com/cSbiZdt.png)
 
-The death GameObjects are the GameObbjects to be instantiated after the explosion, e.g. a prefab of an explosion effect.
+The death GameObjects are the GameObjects to be instantiated after the explosion, e.g. a prefab of an explosion effect.
