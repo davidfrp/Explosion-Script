@@ -1,6 +1,6 @@
 # unity-explosion
 [![GitHub issues](https://img.shields.io/github/issues/davidfrp/unity-explosion.svg)](https://github.com/davidfrp/unity-explosion/issues)
-[![Project license](https://img.shields.io/github/license/davidfrp/unity-explosion.svg)](https://raw.githubusercontent.com/davidfrp/unity-explosion/master/LICENSE)
+[![Project license](https://img.shields.io/github/license/davidfrp/unity-explosion.svg)](https://github.com/davidfrp/unity-explosion/blob/master/LICENSE)
 
 A small script behavior for Unity3D. It uses damage falloff curves and explosion forces.
 
